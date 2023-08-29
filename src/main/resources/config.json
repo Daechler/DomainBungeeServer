@@ -1,0 +1,6 @@
+{
+  "domains": {
+    "example1.com": "Server1",
+    "example2.com": "Server2"
+  }
+}

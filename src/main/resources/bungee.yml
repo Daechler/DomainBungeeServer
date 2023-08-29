@@ -1,0 +1,5 @@
+name: DomainBungeeServer
+version: '${project.version}'
+main: net.daechler.domainbungeeserver.DomainBungeeServer
+author: Daechler
+description: Route players to specific servers in a BungeeCord network based on the domain they use to connect.
